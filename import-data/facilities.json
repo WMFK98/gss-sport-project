@@ -1,0 +1,257 @@
+[
+  {
+    "facility_id": "facility001",
+    "name": "Smash Arena",
+    "sports_type": ["แบดมินตัน", "ปิงปอง"],
+    "price_per_hour": {
+      "แบดมินตัน": 300,
+      "ปิงปอง": 200
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7563,
+        "longitude": 100.5018
+      }
+    },
+    "available_times": ["09:00-11:00", "13:00-18:00"],
+    "rating": 4.5
+  },
+  {
+    "facility_id": "facility002",
+    "name": "Hoop Center",
+    "sports_type": ["บาสเกตบอล"],
+    "price_per_hour": {
+      "บาสเกตบอล": 500
+    },
+    "location": {
+      "city": "เชียงใหม่",
+      "coordinates": {
+        "latitude": 18.7883,
+        "longitude": 98.9853
+      }
+    },
+    "available_times": ["10:00-12:00", "14:00-20:00"],
+    "rating": 4.2
+  },
+  {
+    "facility_id": "facility003",
+    "name": "Football Haven",
+    "sports_type": ["ฟุตบอล"],
+    "price_per_hour": {
+      "ฟุตบอล": 1000
+    },
+    "location": {
+      "city": "ภูเก็ต",
+      "coordinates": {
+        "latitude": 7.8804,
+        "longitude": 98.3923
+      }
+    },
+    "available_times": ["08:00-11:00", "17:00-22:00"],
+    "rating": 4.8
+  },
+  {
+    "facility_id": "facility004",
+    "name": "Ping Pong World",
+    "sports_type": ["ปิงปอง"],
+    "price_per_hour": {
+      "ปิงปอง": 250
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7367,
+        "longitude": 100.5231
+      }
+    },
+    "available_times": ["09:00-18:00"],
+    "rating": 4.1
+  },
+  {
+    "facility_id": "facility005",
+    "name": "Volley Court Pro",
+    "sports_type": ["วอลเลย์บอล"],
+    "price_per_hour": {
+      "วอลเลย์บอล": 400
+    },
+    "location": {
+      "city": "หัวหิน",
+      "coordinates": {
+        "latitude": 12.5684,
+        "longitude": 99.9577
+      }
+    },
+    "available_times": ["08:00-12:00", "15:00-18:00"],
+    "rating": 4.3
+  },
+  {
+    "facility_id": "facility006",
+    "name": "Elite Football Field",
+    "sports_type": ["ฟุตบอล"],
+    "price_per_hour": {
+      "ฟุตบอล": 1200
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7804,
+        "longitude": 100.4908
+      }
+    },
+    "available_times": ["08:00-11:00", "16:00-20:00"],
+    "rating": 4.6
+  },
+  {
+    "facility_id": "facility007",
+    "name": "All-Star Basketball",
+    "sports_type": ["บาสเกตบอล"],
+    "price_per_hour": {
+      "บาสเกตบอล": 450
+    },
+    "location": {
+      "city": "พัทยา",
+      "coordinates": {
+        "latitude": 12.9236,
+        "longitude": 100.8825
+      }
+    },
+    "available_times": ["10:00-13:00", "15:00-19:00"],
+    "rating": 4.7
+  },
+  {
+    "facility_id": "facility008",
+    "name": "Pro Smash Center",
+    "sports_type": ["แบดมินตัน"],
+    "price_per_hour": {
+      "แบดมินตัน": 280
+    },
+    "location": {
+      "city": "เชียงใหม่",
+      "coordinates": {
+        "latitude": 18.7998,
+        "longitude": 98.9671
+      }
+    },
+    "available_times": ["08:00-12:00", "14:00-18:00"],
+    "rating": 4.5
+  },
+  {
+    "facility_id": "facility009",
+    "name": "Central Volleyball Court",
+    "sports_type": ["วอลเลย์บอล"],
+    "price_per_hour": {
+      "วอลเลย์บอล": 350
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7445,
+        "longitude": 100.5366
+      }
+    },
+    "available_times": ["09:00-11:00", "13:00-17:00"],
+    "rating": 4.4
+  },
+  {
+    "facility_id": "facility010",
+    "name": "Speedy Table Tennis",
+    "sports_type": ["ปิงปอง"],
+    "price_per_hour": {
+      "ปิงปอง": 220
+    },
+    "location": {
+      "city": "หัวหิน",
+      "coordinates": {
+        "latitude": 12.5684,
+        "longitude": 99.9577
+      }
+    },
+    "available_times": ["09:00-18:00"],
+    "rating": 4.0
+  },
+  {
+    "facility_id": "facility011",
+    "name": "Ultimate Football Park",
+    "sports_type": ["ฟุตบอล"],
+    "price_per_hour": {
+      "ฟุตบอล": 1500
+    },
+    "location": {
+      "city": "ภูเก็ต",
+      "coordinates": {
+        "latitude": 7.8804,
+        "longitude": 98.3923
+      }
+    },
+    "available_times": ["07:00-10:00", "16:00-21:00"],
+    "rating": 4.9
+  },
+  {
+    "facility_id": "facility012",
+    "name": "Basketball World",
+    "sports_type": ["บาสเกตบอล"],
+    "price_per_hour": {
+      "บาสเกตบอล": 480
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7563,
+        "longitude": 100.5018
+      }
+    },
+    "available_times": ["08:00-12:00", "13:00-17:00"],
+    "rating": 4.6
+  },
+  {
+    "facility_id": "facility013",
+    "name": "Table Tennis Master",
+    "sports_type": ["ปิงปอง"],
+    "price_per_hour": {
+      "ปิงปอง": 240
+    },
+    "location": {
+      "city": "พัทยา",
+      "coordinates": {
+        "latitude": 12.9236,
+        "longitude": 100.8825
+      }
+    },
+    "available_times": ["09:00-18:00"],
+    "rating": 4.2
+  },  {
+  "facility_id": "facility014",
+  "name": "Golden Smash Arena",
+  "sports_type": ["แบดมินตัน"],
+  "price_per_hour": {
+    "แบดมินตัน": 300
+  },
+  "location": {
+    "city": "เชียงราย",
+    "coordinates": {
+      "latitude": 19.9091,
+      "longitude": 99.8321
+    }
+  },
+  "available_times": ["08:00-12:00", "13:00-16:00"],
+  "rating": 4.3
+},
+  {
+    "facility_id": "facility015",
+    "name": "Star Volleyball Court",
+    "sports_type": ["วอลเลย์บอล"],
+    "price_per_hour": {
+      "วอลเลย์บอล": 400
+    },
+    "location": {
+      "city": "กรุงเทพฯ",
+      "coordinates": {
+        "latitude": 13.7246,
+        "longitude": 100.4940
+      }
+    },
+    "available_times": ["07:00-11:00", "14:00-18:00"],
+    "rating": 4.5
+  }
+  ]
